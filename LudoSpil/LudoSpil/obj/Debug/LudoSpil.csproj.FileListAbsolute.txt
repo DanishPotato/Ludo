@@ -1,0 +1,6 @@
+C:\Users\HF\Google Drev\Programmering\CS\LudoSpil\LudoSpil\bin\Debug\LudoSpil.exe.config
+C:\Users\HF\Google Drev\Programmering\CS\LudoSpil\LudoSpil\bin\Debug\LudoSpil.exe
+C:\Users\HF\Google Drev\Programmering\CS\LudoSpil\LudoSpil\bin\Debug\LudoSpil.pdb
+C:\Users\HF\Google Drev\Programmering\CS\LudoSpil\LudoSpil\obj\Debug\LudoSpil.csprojResolveAssemblyReference.cache
+C:\Users\HF\Google Drev\Programmering\CS\LudoSpil\LudoSpil\obj\Debug\LudoSpil.exe
+C:\Users\HF\Google Drev\Programmering\CS\LudoSpil\LudoSpil\obj\Debug\LudoSpil.pdb
